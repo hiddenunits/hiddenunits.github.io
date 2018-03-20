@@ -6,10 +6,10 @@
 name: Hidden Units
 
 # Short bio or description (displayed in the header)
-description: Diving deep into hidden units of different neural networks. 
+description: Diving deep into neural networks. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/blog_icon.jpg
+avatar: https://raw.githubusercontent.com/hiddenunits/hiddenunits.github.io/master/images/blog_icon.jpg
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/bl
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:unitshidden@gmail.com
   facebook:
   flickr:
-  github: github.com/hiddenunits
+  github: hiddenunits
   instagram:
   linkedin:
   pinterest:
