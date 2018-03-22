@@ -7,7 +7,7 @@ Welcome!! The last decade saw the emergence of various Deep Neural Networks(DNN)
 
 Genrally, DNN's are seen as black box . This is an attempt to zoom inside these architectures and demystfy the building blocks i.e hidden units.  
 
-![black box]({{ site.baseurl }}/images/black-box.png)
+![black box]({{ site.baseurl }}/images/base/black-box.png)
 
 The website will feature each architectures(NN, CNN, RNN, LSTM etc) and breakdown into a series of blogs.
 
