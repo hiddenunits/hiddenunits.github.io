@@ -14,7 +14,7 @@
 
 In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+![Jekyll Now Theme Screenshot](/images/base/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 ## Quick Start
 
@@ -38,7 +38,7 @@ Making a change to _config.yml (or any file in your repository) will force GitHu
 > 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
 > 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
 
-![_config.yml](/images/config.png "_config.yml")
+![_config.yml](/images/base/config.png "_config.yml")
 
 ### Step 3) Publish your first blog post
 
