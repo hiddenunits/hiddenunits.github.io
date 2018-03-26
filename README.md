@@ -1,8 +1,5 @@
----
-layout: post
-title: Demystifying hidden units!
----
-> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.                    - Richard Feynman.
+
+# > Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.                    - Richard Feynman.
 
 
 The main reason we started was to explore some of the uncovered topics .We have taken and seen many blogs and MOOCS ,but we believe there are certain topics which were easily brushed off ,which made us wondering and wanted to explore more. 
